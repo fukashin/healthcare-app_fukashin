@@ -136,6 +136,7 @@ infra/*local*
 .venv
 # 勝手に更新かかったので念のた排除
 /backend/.idea
+/backend/app/__pycache__/*
 
 # 拡張子が.pycのファイルを除外（バイナリファイルはコンフリクト（衝突が起きるから））
 *.pyc
