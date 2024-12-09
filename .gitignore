@@ -134,3 +134,7 @@ infra/*local*
 
 # python
 .venv
+
+# 府川追加
+.idea
+
